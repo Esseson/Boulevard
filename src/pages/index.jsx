@@ -64,7 +64,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br />
         </BigTitle>
-        <Subtitle> <h1> Hand over the keys, get paid immediately. </h1> </Subtitle>
+        <Subtitle> <h1> Hand over the keys, get paid immediately. </h1></Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title></Title>
